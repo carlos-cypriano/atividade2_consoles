@@ -1,7 +1,7 @@
 public class RacingCricket {
 
     static int countCrickets = 8;
-    final static int TOTAL_DISTANCE = 650;
+    final static int TOTAL_DISTANCE = 800;
 
     public static void main(String[] args) {
         
